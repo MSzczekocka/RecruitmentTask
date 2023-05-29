@@ -1,0 +1,5 @@
+title,genre,releaseDate,price,isAvailable,rentedBy
+A,A1,12/5/2022,12.45,yes,0
+B,B1,13/5/2022,13.45,no,1
+C,C1,14/5/2022,14.45,yes,0
+D,D1,15/5/2022,15.45,no,2
